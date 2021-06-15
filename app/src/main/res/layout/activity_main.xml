@@ -89,7 +89,7 @@
         <soup.neumorphism.NeumorphButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Female"
+            android:text="Fluid"
             android:textSize="20dp"
             android:paddingHorizontal="70dp"
             android:paddingVertical="30dp"/>
